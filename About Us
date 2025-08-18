@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us | TAWASOL</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <nav>
+        <img src="images/tawasol-logo.png" alt="TAWASOL Logo" class="nav-logo">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="industries.html">Industries</a></li>
+            <li><a href="about.html" class="active">About Us</a></li>
+            <li><a href="contact.html" class="cta">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <section class="page-header">
+        <h1>About TAWASOL</h1>
+        <p>Leading AI Partner for Governments & Enterprises in the Middle East</p>
+    </section>
+    <section class="about-content">
+        <div>
+            <h2>Our Vision</h2>
+            <p>To be the leading AI solutions provider in the Middle East, driving regional progress through technological innovation and empowering organizations to achieve unprecedented levels of efficiency and intelligence.</p>
+        </div>
+        <div>
+            <h2>Our Mission</h2>
+            <p>Delivering cutting-edge, ethical, and customized Artificial Intelligence solutions that address the specific needs of Middle Eastern government agencies and enterprises, fostering digital transformation and sustainable development.</p>
+        </div>
+        <div>
+            <h2>Our Team</h2>
+            <p>Our team comprises seasoned AI engineers, data scientists, industry consultants, and project managers with extensive experience in developing and deploying complex AI systems. We are passionate about innovation and committed to delivering excellence, leveraging our collective expertise to solve real-world problems and create lasting value for our clients.</p>
+        </div>
+        <div>
+            <h2>Our Values</h2>
+            <ul>
+                <li>Innovation</li>
+                <li>Integrity</li>
+                <li>Collaboration</li>
+                <li>Excellence</li>
+                <li>Impact</li>
+            </ul>
+        </div>
+        <div class="chairman-message">
+            <img src="images/chairman.jpg" alt="Chairman Osama Moustafa" class="chairman-img">
+            <h2>A Message from Our Chairman</h2>
+            <p>
+                <strong>Osama Moustafa</strong> <br>
+                Chairman & CEO <br>
+                <a href="mailto:ceo@tawasolit.com">ceo@tawasolit.com</a>
+            </p>
+            <blockquote>
+                "At TAWASOL, we believe in the transformative power of Artificial Intelligence to reshape industries and elevate societies. Our journey began with a vision to empower governments and enterprises across the Middle East with cutting-edge AI solutions that drive efficiency, foster innovation, and create lasting impact. We are committed to ethical AI development, ensuring that our technologies serve humanity responsibly and contribute to a brighter, more intelligent future for the region."
+            </blockquote>
+        </div>
+    </section>
+</main>
+<footer>
+    <div class="footer-row">
+        <img src="images/tawasol-icon.png" alt="Tawasol Icon" class="footer-icon">
+        <p>© 2025 TAWASOL. All rights reserved.</p>
+    </div>
+</footer>
+</body>
+</html>
