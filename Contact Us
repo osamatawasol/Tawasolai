@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us | TAWASOL</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <nav>
+        <img src="images/tawasol-logo.png" alt="TAWASOL Logo" class="nav-logo">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="industries.html">Industries</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html" class="cta active">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <section class="page-header">
+        <h1>Contact Us</h1>
+        <p>Ready to transform your organization with AI? Get in touch with our experts today to discuss your needs and explore how our tailored AI solutions can drive your success.</p>
+    </section>
+    <section class="contact-form-section">
+        <form class="contact-form">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="organization">Organization</label>
+            <input type="text" id="organization" name="organization">
+
+            <label for="subject">Subject</label>
+            <input type="text" id="subject" name="subject">
+
+            <label for="message">Message</label>
+            <textarea id="message" name="message" required></textarea>
+
+            <button type="submit">Send Message</button>
+        </form>
+        <div class="contact-info">
+            <h2>Contact Information</h2>
+            <p><strong>Phone:</strong> +201008020002</p>
+            <p><strong>Email:</strong> <a href="mailto:info@tawasolit.com">info@tawasolit.com</a></p>
+            <p><strong>Address:</strong> 302 90th st., New Cairo, Cairo 11411, Egypt</p>
+            <p><strong>Business Hours:</strong> Sunday to Thursday from 9:00 am to 6:00 pm</p>
+        </div>
+    </section>
+</main>
+<footer>
+    <div class="footer-row">
+        <img src="images/tawasol-icon.png" alt="Tawasol Icon" class="footer-icon">
+        <p>© 2025 TAWASOL. All rights reserved.</p>
+    </div>
+</footer>
+</body>
+</html>
