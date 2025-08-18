@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our AI Services | TAWASOL</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <img src="images/tawasol-logo.png" alt="TAWASOL Logo" class="nav-logo">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html" class="active">Services</a></li>
+                <li><a href="industries.html">Industries</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html" class="cta">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="page-header">
+            <h1>Overview of Our AI Services</h1>
+            <p>Propelling government agencies and enterprises into a new era of intelligence and automation.</p>
+        </section>
+        <section class="services-list">
+            <div class="service">
+                <h2>AI Strategy & Consulting</h2>
+                <ul>
+                    <li>AI Readiness Assessments</li>
+                    <li>AI Roadmap Development</li>
+                    <li>Feasibility Studies & ROI Analysis</li>
+                    <li>Ethical AI Framework Development</li>
+                </ul>
+            </div>
+            <div class="service">
+                <h2>Generative AI Solutions</h2>
+                <ul>
+                    <li>Content Generation & Automation</li>
+                    <li>Intelligent Design & Prototyping</li>
+                    <li>Advanced Data Synthesis & Analysis</li>
+                    <li>Personalized Customer Engagement</li>
+                </ul>
+            </div>
+            <div class="service">
+                <h2>Government AI Solutions (AI4G)</h2>
+                <ul>
+                    <li>Public Service Optimization</li>
+                    <li>Smart City Initiatives</li>
+                    <li>Data Analytics for Policy Making</li>
+                </ul>
+            </div>
+            <div class="service">
+                <h2>Enterprise AI & Automation</h2>
+                <ul>
+                    <li>Business Process Automation & RPA</li>
+                    <li>Customer Experience Enhancement</li>
+                    <li>Predictive Analytics & Business Intelligence</li>
+                    <li>AI in Healthcare & Logistics</li>
+                </ul>
+            </div>
+            <div class="service">
+                <h2>AI Training & Capacity Building</h2>
+                <ul>
+                    <li>Customized AI Training Programs</li>
+                    <li>Workshops on Ethical AI & AI Tools</li>
+                </ul>
+            </div>
+            <div class="service">
+                <h2>Custom AI Development & Integration</h2>
+                <ul>
+                    <li>Bespoke AI Model Development</li>
+                    <li>System Integration</li>
+                    <li>Ongoing Maintenance & Support</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="footer-row">
+            <img src="images/tawasol-icon.png" alt="Tawasol Icon" class="footer-icon">
+            <p>© 2025 TAWASOL. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
