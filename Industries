@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Industries | TAWASOL</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <nav>
+        <img src="images/tawasol-logo.png" alt="TAWASOL Logo" class="nav-logo">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="industries.html" class="active">Industries</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html" class="cta">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <section class="page-header">
+        <h1>Industry Showcases</h1>
+        <p>Delivering AI-powered transformation across government, healthcare, finance, logistics, and more.</p>
+    </section>
+    <section class="industry-cards">
+        <div class="industry">
+            <h2>Government & Public Sector</h2>
+            <p>
+                <strong>Smart City Management:</strong> AI-powered traffic optimization, predictive analytics for urban planning.<br>
+                <strong>Citizen Services Automation:</strong> Intelligent chatbots, virtual assistants, real-time information.<br>
+                <strong>Public Safety & Security:</strong> Predictive policing, anomaly detection, intelligent threat assessment.
+            </p>
+        </div>
+        <div class="industry">
+            <h2>Healthcare</h2>
+            <p>
+                <strong>Diagnostic Assistance:</strong> Early disease detection from medical images.<br>
+                <strong>Personalized Treatment Plans:</strong> AI-driven patient data and genetic analysis.<br>
+                <strong>Hospital Operations Optimization:</strong> Bed management, scheduling, and supply chain.
+            </p>
+        </div>
+        <div class="industry">
+            <h2>Finance & Banking</h2>
+            <p>
+                <strong>Fraud Detection & Prevention:</strong> Real-time transaction pattern analysis.<br>
+                <strong>Risk Assessment & Management:</strong> Predictive models for credit risk and investments.<br>
+                <strong>Personalized Advisory:</strong> AI-powered financial advice and planning.
+            </p>
+        </div>
+        <div class="industry">
+            <h2>Logistics & Supply Chain</h2>
+            <p>
+                <strong>Route Optimization:</strong> Delivery route AI considering traffic and schedules.<br>
+                <strong>Demand Forecasting:</strong> Advanced models for accurate inventory.<br>
+                <strong>Predictive Maintenance:</strong> Equipment health monitoring and failure prediction.
+            </p>
+        </div>
+    </section>
+    <section class="client-showcase">
+        <h2>Client Showcase</h2>
+        <p>
+            TAWASOL is proud to have partnered with a diverse range of government agencies and leading enterprises across the Middle East and beyond, including:<br>
+            <strong>Egypt:</strong> Central Bank of Egypt, Egyptian Cabinet, Vodafone, Etisalat, National Bank of Egypt, Ain Shams University, and many more.<br>
+            <strong>Saudi Arabia:</strong> Saudi Capital Market Authority, STC, Mobily, Abdul Latif Jameel Company, and others.<br>
+            <strong>UAE:</strong> Dubai Police, DP World, Dubai Municipality, Abu Dhabi Judicial Department, and more.<br>
+            <strong>Bahrain, Kuwait, Oman, Qatar, Libya, Morocco, Brunei, Spain, Portugal, USA, Cyprus, Austria:</strong> Multiple ministries, companies, and organizations.<br>
+        </p>
+    </section>
+</main>
+<footer>
+    <div class="footer-row">
+        <img src="images/tawasol-icon.png" alt="Tawasol Icon" class="footer-icon">
+        <p>© 2025 TAWASOL. All rights reserved.</p>
+    </div>
+</footer>
+</body>
+</html>
